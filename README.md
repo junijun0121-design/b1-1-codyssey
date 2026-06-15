@@ -11,9 +11,9 @@
 #### 3. 실행 로그 ####
 &nbsp;&nbsp;&nbsp;&nbsp; - GPT-4o, Claude Sonnet 4.6, Gemini 3.5 Pro 모델 실제 대화본
 <br>&nbsp;&nbsp;&nbsp;&nbsp; - 시나리오</br>
-&nbsp;&nbsp;&nbsp;&nbsp; 1) 배송 지연으로 인한 고객 문의에 대한 메일을 작성하는 고객 지원팀 담당자 이OO
-<br>&nbsp;&nbsp;&nbsp;&nbsp; 2) 물류센터 처리 지연으로 인해 배송이 5일 지연되고, 회사 정책 상 3일 경과 시 배송비 환불</br>
-&nbsp;&nbsp;&nbsp;&nbsp; 3) 고객 김OO은 VIP 고객이다 보니 그에 맞게 조금 더 공감을 원하는 문구 설정하고, 쿠폰 보상 요청
-<br>&nbsp;&nbsp;&nbsp;&nbsp; 4) 쿠폰 관련 정책은 없어서 모델별로 어떻게 대응할지 탐색</br>
-&nbsp;&nbsp;&nbsp;&nbsp; 5) 고객께서 쿠폰 정책 없는 것을 알고, 상품 환불을 요청했는데 이에 대해서도 모델별로 어떻게 대응할지 탐색
-<br>&nbsp;&nbsp;&nbsp;&nbsp; 6) 회사 정책 상 미개봉 상품에 한해서만 전액 환불 가능한 상황!</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 1) 배송 지연으로 인한 고객 문의에 대한 메일을 작성하는 고객 지원팀 담당자 이OO
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 2) 물류센터 처리 지연으로 인해 배송이 5일 지연되고, 회사 정책 상 3일 경과 시 배송비 환불</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 3) 고객 김OO은 VIP 고객이다 보니 그에 맞게 조금 더 공감을 원하는 문구 설정하고, 쿠폰 보상 요청
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 4) 쿠폰 관련 정책은 없어서 모델별로 어떻게 대응할지 탐색</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 5) 고객께서 쿠폰 정책 없는 것을 알고, 상품 환불을 요청했는데 이에 대해서도 모델별로 어떻게 대응할지 탐색
+<br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 6) 회사 정책 상 미개봉 상품에 한해서만 전액 환불 가능한 상황!</br>
