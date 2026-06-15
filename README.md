@@ -10,5 +10,5 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp; - 환각 검증</br>
 #### 3. 실행 로그 ####
 &nbsp;&nbsp;&nbsp;&nbsp; - GPT-4o 모델 실제 대화본
-<br>&nbsp;&nbsp;&nbsp;&nbsp; - Claude Fable 5 모델 실제 대화본</br>
-&nbsp;&nbsp;&nbsp;&nbsp; - Gemini 2.5 Pro 모델 실제 대화본
+<br>&nbsp;&nbsp;&nbsp;&nbsp; - Claude Sonnet 4.6 모델 실제 대화본</br>
+&nbsp;&nbsp;&nbsp;&nbsp; - Gemini 3.5 Pro 모델 실제 대화본
